@@ -6,7 +6,7 @@ Discentes:
 
 - Bianka Vasconcelos Maciel
 - Micael Viana
-- Vinicius Chagas (22050485)
+- Vinicius Chagas
 
 Trabalho avaliativo da disciplina de Inteligência Artificial, ministrada pelo professor Edjard Mota.
 
