@@ -6,7 +6,7 @@ Discentes:
 
 - Bianka Vasconcelos Maciel
 - Micael Viana
-- Vinicius Chagas (22050485)
+- Vinicius Chagas
 
 Trabalho avaliativo da disciplina de Inteligência Artificial, ministrada pelo professor Edjard Mota.
 
@@ -61,7 +61,7 @@ p(voltage(false) | street_condition(snow_covered)) = 0.96  % (0.95 * 0.96 + 0.05
 
 Isso mostra que a probabilidade de voltagem alta (V = true) dada uma rua coberta de neve é 0,04, enquanto a probabilidade de voltagem baixa (V = false) é 0,96.
 
-Em resumo, o código ProbLog fornecido permite calcular a probabilidade desejada considerando os relacionamentos entre as variáveis e suas probabilidades condicionais.
+Em resumo, o código Prolog fornecido permite calcular a probabilidade desejada considerando os relacionamentos entre as variáveis e suas probabilidades condicionais.
 
 ## Referências
 
