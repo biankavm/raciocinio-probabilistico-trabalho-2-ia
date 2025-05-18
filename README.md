@@ -1,12 +1,12 @@
 # IA - 2º Trabalho - Raciocínio Probabilistico
 
-Docente: Edjard Mota
+Equipe:
 
-Discentes:
-
+- Allan Aguiar
 - Bianka Vasconcelos Maciel
+- Luã Souza
 - Micael Viana
-- Vinicius Chagas
+- Vinícius Chagas
 
 Trabalho avaliativo da disciplina de Inteligência Artificial, ministrada pelo professor Edjard Mota.
 
